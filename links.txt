@@ -1,0 +1,3 @@
+#ubuntu with maria, php 7.2
+
+https://websiteforstudents.com/install-apache2-mariadb-and-php-7-2-with-phpmyadmin-on-ubuntu-16-04-18-04-18-10-lamp-phpmyadmin/
